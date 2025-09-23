@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2021 Luca Weiss <luca@lucaweiss.eu>
+// SPDX-License-Identifier: 0BSD
+
 /dts-v1/;
 
 / {
